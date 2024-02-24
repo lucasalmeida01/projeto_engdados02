@@ -14,7 +14,7 @@ Iremos utilizar o Glue Job para salvar nossos dados em um novo bucket no formato
 
 Com os dados no formato Parquet e em um novo bucket, iremos usar a ferramenta Athena para realizar consultas com SQL.
 
-![esquema](diagrama.png)
+![esquema](imagem.png)
 
 ## Resolução:
 
